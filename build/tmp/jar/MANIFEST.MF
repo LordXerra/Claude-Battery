@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.claudebattery.Main
+Implementation-Title: Claude Battery
+Implementation-Version: 1.0.0
+

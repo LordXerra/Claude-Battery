@@ -1,0 +1,4 @@
+Create a java application to monitor my useage of Claude in a range of 0% to 100% in both hourly limit and weekly limit by using
+a battery symbol in the notifications area which shows two progress bars gradient filled from red to green depending on how much the useage 
+percentage is. When the user hovers over this icon then it should show both amounts labelled hourly, weekly and how long till the next reset.
+
